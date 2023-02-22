@@ -10,4 +10,4 @@ runs:
         cache: true
     - name: Setup dependencies
       shell: bash
-      run: make download
+      run: sudo apt install make
