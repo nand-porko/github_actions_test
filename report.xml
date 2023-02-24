@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="2">
+	<testsuite name="example.com/greetings" tests="2" failures="0" errors="0" id="0" hostname="MacBook-Pro" time="0.202" timestamp="2023-02-24T00:01:30-05:00">
+		<testcase name="TestHelloName" classname="example.com/greetings" time="0.000"></testcase>
+		<testcase name="TestHelloEmpty" classname="example.com/greetings" time="0.000"></testcase>
+	</testsuite>
+</testsuites>
