@@ -4,6 +4,9 @@ on: [push]
 jobs:
   go-unit-test:
     runs-on: ubuntu-22.04
+    permissions:
+      checks: write
+      pull-requests: write
     strategy:
       fail-fast: false
       matrix:
