@@ -61,7 +61,7 @@ jobs:
         uses: andymckay/append-gist-action@1fbfbbce708a39bd45846f0955ed5521f2099c6d
         with:
           token: ${{ secrets.GIST_TOKEN }}
-          gistURL: https://gist.githubusercontent.com/nand-porko/8b6f24e5f46e51a085d912ae2528e51d/
+          gistURL: https://gist.githubusercontent.com/nand-porko/802f03763771de39c4e0ccf9d333a16b/
           file: badge.svg
 
 
